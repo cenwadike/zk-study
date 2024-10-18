@@ -1,0 +1,39 @@
+.env
+coverage
+coverage.json
+typechain
+
+# zku week1
+zku-week1/node_modules
+zku-week1/cache
+zku-week1/artifacts
+zku-week1/*.sol
+zku-week1/*.ptau
+zku-week1/Q2/contracts/circuits/Multiplier3
+zku-week1/Q2/contracts/circuits/HelloWorld
+zku-week1/Q2/contracts/circuits/Multiplier3_plonk
+zku-week1/Q3/contracts/bonus/SystemOfEquations
+
+# zku week2
+zku-week2/node_modules
+zku-week2/cache
+zku-week2/artifacts
+zku-week2/Part1/circuits/circuit_js
+zku-week2/*.r1cs
+zku-week2/*.sym
+zku-week2/*.zkey
+zku-week2/*.ptau
+zku-week2/verification_key.json
+zku-week2/verifier.sol
+
+# zk rollup
+zk-rollup/node_modules
+zk-rollup/cache
+zk-rollup/artifacts
+zk-rollup/*/circuit_js
+zk-rollup/*.r1cs
+zk-rollup/*.sym
+zk-rollup/*.zkey
+zk-rollup/*.ptau
+zk-rollup2/verification_key.json
+zk-rollup/verifier.sol
